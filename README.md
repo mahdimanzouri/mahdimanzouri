@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahdi Manzouri
 
-<!--
-**mahdimanzouri/mahdimanzouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | Next.js Enthusiast | Linux & Docker Advocate
 
-Here are some ideas to get you started:
+I build modern full-stack web applications with **Next.js** at the core — blending frontend finesse with backend power.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack & Interests
+
+- **⚛️ Next.js** – Building full-stack apps with App Router, Server Components, and API routes
+- **🐧 Linux** – Daily driver, terminal-first workflow
+- **🛡️ WAF + NGINX** – Securing and scaling web infrastructure
+- **🐳 Docker** – Containerizing everything for reproducible deployments
+- **⚙️ C++** – Low-level coding when performance truly matters
+
+---
+
+### 🔧 What I'm passionate about
+
+- Modern full-stack architectures with Next.js
+- Secure, scalable web infrastructure (WAF + NGINX)
+- Clean containerized deployments with Docker
+- Systems programming with C++
+
+---
+
+### 📫 Let's connect
+
+- [**LinkedIn**](https://www.linkedin.com/in/mahdi-manzouri-a9a024215/)
+- [**GitHub:**](https://github.com/mahdimanzouri)
+- [**Email:**](mahdimanzouri@gmail.co)
+
+---
+
+> *"Love servers, security, and seamless UIs."*
